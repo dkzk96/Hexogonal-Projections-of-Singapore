@@ -19,11 +19,11 @@ Lib_Data_Source.R:
 
 - Installs required files which can be found from google drive: 
           - Original Data from DOS(.xlsx):
-                  https://drive.google.com/open?id=1T6kIgaVS22Wcvreqn_uOboKyYH_Wuig3
+                  -https://drive.google.com/open?id=1T6kIgaVS22Wcvreqn_uOboKyYH_Wuig3
           - Singapore Ethnic Composition Counts by Planning Area(.xlsx):
-                  https://drive.google.com/open?id=1ry-neiC0TlR1gGJoNqnpTIbNKM0LHaoK
+                  -https://drive.google.com/open?id=1ry-neiC0TlR1gGJoNqnpTIbNKM0LHaoK
           - Singapore Ethnic Composition(percentage) by Planning Area(.csv):
-                  https://drive.google.com/open?id=1KCfh3GhcLsITlxr9Y7qNCBLOJ1OSdV7o
+                  -https://drive.google.com/open?id=1KCfh3GhcLsITlxr9Y7qNCBLOJ1OSdV7o
           
 - Installs required libraries in R:
       - For downloading/reading/transforming data:
