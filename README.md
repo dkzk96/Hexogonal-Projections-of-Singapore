@@ -1,5 +1,8 @@
 # ST3288-UROPS-SG-EthnicProjections
-Ethnic Projections on the Singapore Map(by Planning Area) - in fulfilment of NUS ST3288 UROPS
+
+In fulfillment of National University of Singapore ST3288 - Advanced Undergraduate Research Opportunites in Statistics
+
+Ethnic Projections on the Singapore Map(by Planning Area)
 
 Project is done in R, RStudio GUI is used for this purpose.
 
