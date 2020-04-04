@@ -50,5 +50,5 @@ Lib_Data_Source.R:
 
 Hexagonal Simulation.R (in progress):
 
-- Simulates grid of hexagons via Hungarian Matching Algorithm(package 'Geogrid')
+- Simulates grid of hexagons via Hungarian Matching Algorithm(package 'geogrid')
 - Plots the hexagons according to ethic proportions
