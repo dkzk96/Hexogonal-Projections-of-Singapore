@@ -7,8 +7,9 @@ Ethnic Projections on the Singapore Map(by Planning Area)
 Project is done in R, RStudio GUI is used for this purpose.
 
 Project Files:
-Lib_Data_Source.R
-Hexagonal Simulation.R
+
+    - Lib_Data_Source.R
+    - Hexagonal Simulation.R
 
 Required Files are obtained from the Singapore Department of Statistics(DOS) Table Builder:
 
