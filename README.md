@@ -18,7 +18,7 @@ Lib_Data_Source.R:
 - Checks if Internet Connection is established
 
 - Installs required files which can be found from google drive: 
-          - Original Data from DOS(.xlsx):
+          # Original Data from DOS(.xlsx):
                   -https://drive.google.com/open?id=1T6kIgaVS22Wcvreqn_uOboKyYH_Wuig3
           - Singapore Ethnic Composition Counts by Planning Area(.xlsx):
                   -https://drive.google.com/open?id=1ry-neiC0TlR1gGJoNqnpTIbNKM0LHaoK
