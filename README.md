@@ -1,6 +1,6 @@
 # ST3288-UROPS-SG-EthnicProjections
 
-# In fulfillment of National University of Singapore ST3288 - Advanced Undergraduate Research Opportunites in Statistics
+In fulfillment of National University of Singapore ST3288 - Advanced Undergraduate Research Opportunites in Statistics
 
 Ethnic Projections on the Singapore Map(by Planning Area)
 
